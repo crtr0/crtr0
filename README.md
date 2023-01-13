@@ -34,6 +34,18 @@ Lately, I have spent my time advising startups, running the [SeattleJS](https://
 - Conference Organizer at [CascadiaJS](https://2022.cascadiajs.com)
 - Angel Investor at [200 OK](https://200ok.vc)
 
+## Investments
+
+- [Fission](https://fission.codes/) - identity, data, and compute for dweb
+- [Abbot](https://ab.bot/) - chat ops platform
+- [Begin](https://begin.com) - build and deploy platform for functional web apps on AWS
+- [Battlesnake](https://play.battlesnake.com/) - coding competitions and community
+- [Major League Hacking](https://mlh.io/) - largest student hackathon league in the world
+- [YData](https://ydata.ai/) - data quality platform
+- [Codiga](https://www.codiga.io/) - code analysis
+- [Autocode](https://autocode.com/) - platform for webhooks, bots and APIs
+- Referly - YCS12, pivoted to Mattermark, [acquired by Full Contact](https://techcrunch.com/2017/12/21/mattermark-to-shut-down-after-selling-to-full-contact/)
+
 ## Software
 
 - [A profile builder for devs](http://fizbuz.com)

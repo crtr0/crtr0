@@ -1,8 +1,8 @@
 # Carter Rabasa (he/him)
 
-## UPDATE 
+## UPDATE (1/2/2023)
 
-After a long post-Twilio sabbatical, I'm jumping back into startups! If you're looking for a Marketing or Developer Relations leader, let's talk.
+After a long post-Twilio sabbatical, I'm jumping back into serving developers! If you're looking for a Marketing or Developer Relations leader, let's talk.
 
 ## tl;dr
 
@@ -14,13 +14,17 @@ The highlight of my career was working at [Twilio](https://twilio.com) where I g
 
 Lately, I have spent my time running the [SeattleJS](https://seattlejs.com) meetup, organizing the [CascadiaJS](https://2022.cascadiajs.com) conference and investing in dev tools startups via [200 OK](https://200ok.vc).
 
-## Links
+## How to Reach Me
+
+The easiest way to reach me is at carter.rabasa@gmail.com, but feel free to shoot me a DM on Twitter or book some time for a chat!
 
 - [Twitter](https://twitter.com/crtr0)
 - [LinkedIn](https://www.linkedin.com/in/carterrabasa/)
 - [Book time on Calendly](https://calendly.com/carter-rabasa)
 
 ## Career (order by date desc)
+
+As you'll notice, I've worn a lot of hats in my career. A couple of things have never changed: I love writing software and I love serving communities.
 
 - Angel Investor at [200 OK](https://200ok.vc)
 - Founder of the [CascadiaJS conference](https://2022.cascadiajs.com)
@@ -34,7 +38,43 @@ Lately, I have spent my time running the [SeattleJS](https://seattlejs.com) meet
 - Web developer at Proteus (helped build the first SMS application featured during a Superbowl)
 - College of Williams and Mary (Computer Science and Economics)
 
-## Angel Investments
+## Community Organization
+
+I've been organizing communities my entire adult life, everything from kickball leagues to software meetups. I get my energy from being around people, helping people and creating fun. The last 10 years I've run the CascadiaJS conference, which has helped thousands of developers find jobs, build their networks and uplevel their skills.
+
+- Have run the [SeattleJS](https://seattlejs.com) meetup on and off since 2012.
+- Helped organize the first [Sports Hack Day](https://www.geekwire.com/2013/sports-hack-day-diary-lessons-learned-journalist-hackathon/) in Seattle.
+- Organize the annual CascadiaJS conference (see [2022 event](https://2022.cascadiajs.com)).
+
+
+## Writing
+
+At Twilio, I learned about the importance and value of storytelling. Giving developers great documentation is just the start, the next step is to inspire them to imagine what new things they can build.
+
+- [Introducing Twilio Functions — Public Beta Now Open](https://www.twilio.com/blog/2017/05/introducing-twilio-functions.html)
+- [Why Hiring is Broken](https://medium.com/@carter.rabasa/the-last-inefficient-market-7d1d947e6360)
+- [Real-time Visibility Into Application Errors with the Debugger Webhook](https://www.twilio.com/blog/2017/02/real-time-visibility-into-application-errors-with-the-debugger-webhook.html)
+- [Building More Powerful Voice Applications With Enhanced TwiML Bins Templates](https://www.twilio.com/blog/2017/02/building-more-powerful-voice-applications-with-enhanced-twiml-bins-templates.html)
+- [Easily Make API Calls to Any Twilio Product Using the New API Explorer](https://www.twilio.com/blog/2017/02/easily-make-api-calls-to-any-twilio-product-using-the-new-api-explorer.html)
+- [Introducing Templates for TwiML Bins](https://www.twilio.com/blog/2016/10/introducing-templates-for-twiml-bins.html)
+- [Convert Videos on Your Phone Into Animated GIFs Using Node, Libav & Imagemagick](https://www.twilio.com/blog/2014/10/convert-videos-on-your-phone-into-animated-gifs-using-node-libav-and-imagemagick.html)
+- [Fun with Photo Filters Using Node, Hapi and CamanJS](https://www.twilio.com/blog/2014/11/phonestagram-fun-with-photo-filters-using-node-hapi-and-camanjs.html)
+- Integrating Twilio With Your Rails 4 App ([Part 1](https://www.twilio.com/blog/2014/02/twilio-on-rails-integrating-twilio-with-your-rails-4-app.html), [Part 2](https://www.twilio.com/blog/2014/10/twilio-on-rails-part-2-rails-4-app-sending-sms-mms.html), [Part 3](https://www.twilio.com/blog/2015/01/twilio-on-rails-part-3-adding-contextual-voip-using-webrtc-to-your-rails-4-app.html))
+- Building a real-time SMS voting app using NodeJS, Socket.io and CouchDB ([Part 1](http://www.twilio.com/blog/2012/09/building-a-real-time-sms-voting-app-part-1-node-js-couchdb.html), [Part 2](http://www.twilio.com/blog/2012/12/building-a-real-time-sms-voting-app-part-2-socket-io-and-highcharts-js.html), [Part 3](http://www.twilio.com/blog/2013/01/building-a-real-time-sms-voting-app-part-3-scaling-node-js-and-couchdb.html), [Part 4](https://www.twilio.com/blog/2013/08/votr-part-4-angularjs-and-authentication-with-couchdb.html), [Part 5](https://www.twilio.com/blog/2013/12/votr-part-5-angularjs-crud-restful-apis.html))
+- [Work/Life Balance as a Developer Evangelist](https://carter.rabasa.com/2012/07/17/how-to-balance-hustling-and-family)
+
+## Talks
+
+I've only given a handful of public talks in my career, but they were all about topics near and dear to my heart. I actually prefer to support other speakers, which is one of the reasons I love organizing meetups and conferences.
+
+- [Twilio Functions product launch](https://www.youtube.com/watch?v=PKodXk6L5Eo)
+- [Building Twilio apps that scale](https://www.youtube.com/watch?v=3O_jnb-53f4)
+- [Helping everyone learn to code](https://www.youtube.com/watch?v=pHJRELG31dE)
+- [How to build community](https://www.youtube.com/watch?v=UaWTrMX0MY8)
+
+## Angel Investments in Developer Tools & Community
+
+I dove into angel investing in 2019, and never looked back. As a person who lives and breath programming, I decided to specialize in developer tools and developer-adjacent startups doing interesting things in community and hiring.
 
 - [Fission](https://fission.codes/) - identity, data, and compute for dweb
 - [Abbot](https://ab.bot/) - chat ops platform
@@ -45,23 +85,13 @@ Lately, I have spent my time running the [SeattleJS](https://seattlejs.com) meet
 - [Codiga](https://www.codiga.io/) - code analysis
 - [Autocode](https://autocode.com/) - platform for webhooks, bots and APIs
 
-## Software
+## Software I've Written
+
+I'm more of a hacker than a software engineer, but here are a few things that were pretty cool when I built them.
 
 - [A profile builder for devs](http://fizbuz.com)
 - [SMS voting with real-time results](https://github.com/crtr0/votr-part5)
 - [Convert videos into animated gifs](https://github.com/crtr0/gifit)
-
-## Talks
-
-- [Twilio Functions product launch](https://www.youtube.com/watch?v=PKodXk6L5Eo)
-- [Building Twilio apps that scale](https://www.youtube.com/watch?v=3O_jnb-53f4)
-- [Helping everyone learn to code](https://www.youtube.com/watch?v=pHJRELG31dE)
-- [How to build community](https://www.youtube.com/watch?v=UaWTrMX0MY8)
-
-## Writing
-
-- [Why Hiring is Broken](https://medium.com/@carter.rabasa/the-last-inefficient-market-7d1d947e6360)
-- [Work/Life Balance as a Developer Evangelist](https://carter.rabasa.com/2012/07/17/how-to-balance-hustling-and-family)
 
 <!---
 crtr0/crtr0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

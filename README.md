@@ -20,7 +20,7 @@ Lately, I have spent my time running the [SeattleJS](https://seattlejs.com) meet
 - [LinkedIn](https://www.linkedin.com/in/carterrabasa/)
 - [Book time on Calendly](https://calendly.com/carter-rabasa)
 
-## Career (sort by date desc)
+## Career (order by date desc)
 
 - Angel Investor at [200 OK](https://200ok.vc)
 - Founder of the [CascadiaJS conference](https://2022.cascadiajs.com)

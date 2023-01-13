@@ -6,35 +6,35 @@ After a long post-Twilio sabbatical, I'm jumping back into startups! If you're l
 
 ## tl;dr
 
-Hi there! 👋 I am a life-long programmer and have been writing code since I was a teenager who built a Doom clone on my TI-85. True story, a bully took my calculator away from me and took the batteries out, deleting the program. I've had a "no assholes" policy ever since.
+Hi there! 👋 My name is Carter and I'm based in Seattle, WA. I am [married](https://carrie.rabasa.com/), the lucky Dad of two awesome kiddos, very active in the developer and startup communities here in the Pacific Nortwest and love to work and invest in the devtools space.
 
-I'm based in Seattle, WA and am the lucky Dad of two awesome kiddos. I write code every day, am very active in the developer and startup communities in Seattle and love to build and invest in developer tools.
+I've been writing code since I was a teenager when I built a Doom clone on my TI-85. I've worn a lot of hats in the tech industry, doing everything from web development to consulting to product management.
 
-The highlight of my time in tech was working at [Twilio](https://twilio.com) where I got to help build one of the first and finest developer relations programs in the world. Our mission was to serve developers, and how we went about this task was instrumental to Twilio's success. I later moved over to Product and shipped a suite of serverless and debugging tools for developers before stepping away after the IPO.
+The highlight of my career was working at [Twilio](https://twilio.com) where I got to help build one of the first and finest developer relations programs in the world. Our mission was to serve developers, and how we went about this task was instrumental to Twilio's success. I later moved over to Product and shipped a suite of serverless and debugging tools for developers before stepping away after the IPO.
 
-Lately, I have spent my time advising startups, running the [SeattleJS](https://seattlejs.com) meetup, organizing the [CascadiaJS](https://2022.cascadiajs.com) conference and investing in dev tools startups via [200 OK](https://200ok.vc).
+Lately, I have spent my time running the [SeattleJS](https://seattlejs.com) meetup, organizing the [CascadiaJS](https://2022.cascadiajs.com) conference and investing in dev tools startups via [200 OK](https://200ok.vc).
 
 ## Links
 
 - [Twitter](https://twitter.com/crtr0)
 - [LinkedIn](https://www.linkedin.com/in/carterrabasa/)
-- [Calendly](https://calendly.com/carter-rabasa)
+- [Book time on Calendly](https://calendly.com/carter-rabasa)
 
-## Career
+## Career (sort by date desc)
 
-- College of Williams and Mary (Computer Science and Economics)
-- Web developer at Proteus (helped build the first SMS application featured during a Superbowl)
-- Consultant at Amentra specializing in J2EE systems
-- Quit tech to start a [kickball league](https://dcfray.com/sport/kickball/) (built on Ruby on Rails 1.0)
-- MBA from the McCombs School of Business at the University of Texas 🤘
-- Developer Marketing at Microsoft for the re-launch of IE 9 (HTML5 ftw)
-- Developer Evangelist at Twilio (focus on USA west coast, helped ship MMS)
-- Product Manager at Twilio (shipped [TwiML Bins](https://www.twilio.com/docs/serverless/twiml-bins), [API Explorer](https://www.twilio.com/blog/2011/08/announcing-the-twilio-api-explorer-2.html), [Debugger](https://www.twilio.com/blog/2017/02/real-time-visibility-into-application-errors-with-the-debugger-webhook.html) and [Functions](https://www.twilio.com/blog/2017/05/introducing-twilio-functions.html))
-- Meetup Organizer at [SeattleJS](https://seattlejs.com) 
-- Conference Organizer at [CascadiaJS](https://2022.cascadiajs.com)
 - Angel Investor at [200 OK](https://200ok.vc)
+- Founder of the [CascadiaJS conference](https://2022.cascadiajs.com)
+- Product Manager at Twilio (shipped [TwiML Bins](https://www.twilio.com/docs/serverless/twiml-bins), [API Explorer](https://www.twilio.com/blog/2011/08/announcing-the-twilio-api-explorer-2.html), [Debugger](https://www.twilio.com/blog/2017/02/real-time-visibility-into-application-errors-with-the-debugger-webhook.html) and [Functions](https://www.twilio.com/blog/2017/05/introducing-twilio-functions.html))
+- Developer Evangelist Manager at Twilio (ran west coast operations)
+- Developer Evangelist at Twilio (helped ship Twilio MMS)
+- Developer Marketing at Microsoft for the re-launch of IE 9 (HTML5 ftw)
+- MBA from the McCombs School of Business at the University of Texas 🤘
+- Quit tech to start a [kickball league](https://dcfray.com/sport/kickball/) (built on Ruby on Rails 1.0)
+- Consultant at Amentra specializing in J2EE systems
+- Web developer at Proteus (helped build the first SMS application featured during a Superbowl)
+- College of Williams and Mary (Computer Science and Economics)
 
-## Investments
+## Angel Investments
 
 - [Fission](https://fission.codes/) - identity, data, and compute for dweb
 - [Abbot](https://ab.bot/) - chat ops platform
@@ -44,7 +44,6 @@ Lately, I have spent my time advising startups, running the [SeattleJS](https://
 - [YData](https://ydata.ai/) - data quality platform
 - [Codiga](https://www.codiga.io/) - code analysis
 - [Autocode](https://autocode.com/) - platform for webhooks, bots and APIs
-- Referly - YCS12, pivoted to Mattermark, [acquired by Full Contact](https://techcrunch.com/2017/12/21/mattermark-to-shut-down-after-selling-to-full-contact/)
 
 ## Software
 

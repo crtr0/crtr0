@@ -94,7 +94,7 @@ I'm more of a hacker than a software engineer, but here are a few things that we
 
 ## Misc
 
-- I was featured on the front page of the Wall Street Journal in full pointillistic glory in 2005
+- I was featured on the front page of the Wall Street Journal in full pointillistic glory in 2005 ([pdf](https://github.com/crtr0/crtr0/blob/main/wsj-kickball.pdf))
 
 <!---
 crtr0/crtr0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

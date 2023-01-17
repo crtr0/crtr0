@@ -2,13 +2,13 @@
 
 ## UPDATE (1/2/2023)
 
-After a long post-Twilio sabbatical, I'm jumping back into serving developers! If you're looking for a Marketing or Developer Relations leader, let's talk.
+After a long post-Twilio sabbatical, I'm jumping back into serving developers! If you're looking for a Marketing or DevRel leader, let's talk.
 
 ## tl;dr
 
-Hi there! 👋 My name is Carter and I'm based in Seattle, WA. I am [married](https://carrie.rabasa.com/), the lucky Dad of two awesome kiddos, very active in the developer and startup communities here in the Pacific Nortwest and love to work and invest in the devtools space.
+Hi there! 👋 My name is Carter Rabasa and I'm based in Seattle, WA. I am married to [Carrie Rabasa](https://carrie.rabasa.com/) and we have two [awesome](https://www.geekwire.com/2018/will-8-year-old-girl-stick-coding-fun-project-dad-attracts-gifts-tech-community/) [kiddos](https://bit.ly/girl_scout_cookies_emily).
 
-I've been writing code since I was a teenager when I built a Doom clone on my TI-85. I've worn a lot of hats in the tech industry, doing everything from web development to consulting to product management.
+I've been writing code since I was a teenager when I built a Doom clone on my TI-85. I started my career as a software engineer, got my MBA and transitioned to marketing and product roles. The common thread across all the jobs I've had: I love software and I love serving communities.
 
 The highlight of my career was working at [Twilio](https://twilio.com) where I got to help build one of the first and finest developer relations programs in the world. Our mission was to serve developers, and how we went about this task was instrumental to Twilio's success. I later moved over to Product and shipped a suite of serverless and debugging tools for developers before stepping away after the IPO.
 
@@ -22,15 +22,14 @@ The easiest way to reach me is at carter.rabasa@gmail.com, but feel free to shoo
 - [LinkedIn](https://www.linkedin.com/in/carterrabasa/)
 - [Book time on Calendly](https://calendly.com/carter-rabasa)
 
-## Career (order by date desc)
+## Career
 
-As you'll notice, I've worn a lot of hats in my career. A couple of things have never changed: I love writing software and I love serving communities.
+I've worn a lot of hats in my career, but the common threads have always been technology, community and a desire to learn. I am constantly building things
 
 - Angel Investor at [200 OK](https://200ok.vc)
-- Founder of the [CascadiaJS conference](https://2022.cascadiajs.com)
 - Product Manager at Twilio (shipped [TwiML Bins](https://www.twilio.com/docs/serverless/twiml-bins), [API Explorer](https://www.twilio.com/blog/2011/08/announcing-the-twilio-api-explorer-2.html), [Debugger](https://www.twilio.com/blog/2017/02/real-time-visibility-into-application-errors-with-the-debugger-webhook.html) and [Functions](https://www.twilio.com/blog/2017/05/introducing-twilio-functions.html))
-- Developer Evangelist Manager at Twilio (ran west coast operations)
-- Developer Evangelist at Twilio (helped ship Twilio MMS)
+- Developer Evangelist Manager at Twilio (managed west coast team)
+- Developer Evangelist at Twilio (helped [ship Twilio MMS](https://www.twilio.com/press/releases/twilio-unlocks-mms-for-developers-and-businesses))
 - Developer Marketing at Microsoft for the re-launch of IE 9 (HTML5 ftw)
 - MBA from the McCombs School of Business at the University of Texas 🤘
 - Quit tech to start a [kickball league](https://dcfray.com/sport/kickball/) (built on Ruby on Rails 1.0)
@@ -38,9 +37,9 @@ As you'll notice, I've worn a lot of hats in my career. A couple of things have 
 - Web developer at Proteus (helped build the first SMS application featured during a Superbowl)
 - College of Williams and Mary (Computer Science and Economics)
 
-## Community Organization
+## Community
 
-I've been organizing communities my entire adult life, everything from kickball leagues to software meetups. I get my energy from being around people, helping people and creating fun. The last 10 years I've run the CascadiaJS conference, which has helped thousands of developers find jobs, build their networks and uplevel their skills.
+I've been organizing communities my entire adult life, everything from kickball leagues to software meetups to angel investor groups. I get my energy from being around people, helping them and creating fun. The last 10 years I've run the CascadiaJS conference, which has helped thousands of developers find jobs, build their networks and uplevel their skills.
 
 - Have run the [SeattleJS](https://seattlejs.com) meetup on and off since 2012.
 - Helped organize the first [Sports Hack Day](https://www.geekwire.com/2013/sports-hack-day-diary-lessons-learned-journalist-hackathon/) in Seattle.
@@ -72,9 +71,9 @@ I've only given a handful of public talks in my career, but they were all about 
 - [Helping everyone learn to code](https://www.youtube.com/watch?v=pHJRELG31dE)
 - [How to build community](https://www.youtube.com/watch?v=UaWTrMX0MY8)
 
-## Angel Investments in Developer Tools & Community
+## Angel Investments
 
-I dove into angel investing in 2019, and never looked back. As a person who lives and breath programming, I decided to specialize in developer tools and developer-adjacent startups doing interesting things in community and hiring.
+I dove into angel investing in 2019, and never looked back. As a person who lives and breaths programming, I decided to specialize in developer tools and developer-adjacent startups doing interesting things in community and hiring.
 
 - [Fission](https://fission.codes/) - identity, data, and compute for dweb
 - [Abbot](https://ab.bot/) - chat ops platform
@@ -92,6 +91,10 @@ I'm more of a hacker than a software engineer, but here are a few things that we
 - [A profile builder for devs](http://fizbuz.com)
 - [SMS voting with real-time results](https://github.com/crtr0/votr-part5)
 - [Convert videos into animated gifs](https://github.com/crtr0/gifit)
+
+## Misc
+
+- I was featured on the front page of the Wall Street Journal in full pointillistic glory in 2005
 
 <!---
 crtr0/crtr0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

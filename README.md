@@ -24,9 +24,9 @@ The easiest way to reach me is at carter.rabasa@gmail.com, but feel free to shoo
 
 ## Career
 
-I've worn a lot of hats in my career, but the common threads have always been technology, community and a desire to learn. I am constantly building things
+I've worn a lot of hats in my career, but the common threads have always been technology, community and a desire to learn. I am constantly building things.
 
-- Angel Investor at [200 OK](https://200ok.vc)
+- Founder and Angel Investor at [200 OK](https://200ok.vc)
 - Product Manager at Twilio (shipped [TwiML Bins](https://www.twilio.com/docs/serverless/twiml-bins), [API Explorer](https://www.twilio.com/blog/2011/08/announcing-the-twilio-api-explorer-2.html), [Debugger](https://www.twilio.com/blog/2017/02/real-time-visibility-into-application-errors-with-the-debugger-webhook.html) and [Functions](https://www.twilio.com/blog/2017/05/introducing-twilio-functions.html))
 - Developer Evangelist Manager at Twilio (managed west coast team)
 - Developer Evangelist at Twilio (helped [ship Twilio MMS](https://www.twilio.com/press/releases/twilio-unlocks-mms-for-developers-and-businesses))

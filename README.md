@@ -1,3 +1,19 @@
+<!---
+The styles below will be stripped out when being rendered on github.com (fine) but will show up when being rendered on Netlify (yay)
+--->
+<html>
+<head>
+<style>
+    body { 
+        font-family: Consolas, monaco, monospace; 
+        margin: 16px;
+        padding: 16px;
+        border: 1px solid #aaa;
+        border-radius: 6px;
+    }
+</style>
+</head>
+<body>
 # Carter Rabasa (he/him)
 
 ## UPDATE (1/2/2023)
@@ -95,6 +111,9 @@ I'm more of a hacker than a software engineer, but here are a few things that we
 ## Misc
 
 - I was featured on the front page of the Wall Street Journal in full pointillistic glory in 2005 ([pdf](https://github.com/crtr0/crtr0/blob/main/wsj-kickball.pdf))
+
+</body>
+</html>
 
 <!---
 crtr0/crtr0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

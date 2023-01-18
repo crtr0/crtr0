@@ -6,14 +6,21 @@ The styles below will be stripped out when being rendered on github.com (fine) b
 <style>
     body { 
         font-family: Consolas, monaco, monospace; 
-        margin: 16px;
         padding: 16px;
+        margin: 16px;
         border: 1px solid #aaa;
         border-radius: 6px;
+    }
+    @media only screen and (min-width: 768px) {
+        body {
+            width: 1200px;
+            margin: 16px auto;
+        }
     }
 </style>
 </head>
 <body>
+
 # Carter Rabasa (he/him)
 
 ## UPDATE (1/2/2023)

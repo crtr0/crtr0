@@ -4,23 +4,9 @@ The styles below will be stripped out when being rendered on github.com (fine) b
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-    body { 
-        font-family: Consolas, monaco, monospace; 
-        padding: 16px;
-        margin: 16px;
-        border: 1px solid #aaa;
-        border-radius: 6px;
-    }
-    @media only screen and (min-width: 768px) {
-        body {
-            width: 1200px;
-            margin: 16px auto;
-        }
-    }
-</style>
 </head>
-<body>
+
+<body style="font-family: Consolas, monaco, monospace; padding: 16px; margin: 16px; border: 1px solid #aaa; border-radius: 6px;">
 
 # Carter Rabasa (he/him)
 

@@ -6,23 +6,26 @@ The styles below will be stripped out when being rendered on github.com (fine) b
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-<body style="font-family: Consolas, monaco, monospace; padding: 16px; margin: 16px; border: 1px solid #aaa; border-radius: 6px;">
+<body style="padding: 4px 16px;">
+<div style="font-family: Consolas, monaco, monospace; padding: 16px; margin: 16px auto; border: 1px solid #aaa; border-radius: 6px;max-width:1000px">
 
 # Carter Rabasa (he/him)
 
 ## UPDATE (1/2/2023)
 
-After a long post-Twilio sabbatical, I'm jumping back into serving developers! If you're looking for a Marketing or DevRel leader, let's talk.
+After a long post-Twilio sabbatical, I'm jumping back into serving developers! If you're building developer tools and are looking for a Marketing, DevRel or Product leader, let's talk.
 
 ## tl;dr
 
-Hi there! 👋 My name is Carter Rabasa and I'm based in Seattle, WA. I am married to [Carrie Rabasa](https://carrie.rabasa.com/) and we have two [awesome](https://www.geekwire.com/2018/will-8-year-old-girl-stick-coding-fun-project-dad-attracts-gifts-tech-community/) [kiddos](https://bit.ly/girl_scout_cookies_emily).
+Hi there! 👋 My name is Carter Rabasa and I'm a builder. I've been building products and businesses my entire life, starting with a Doom clone I wrote as a teenager on my [TI-85](https://en.wikipedia.org/wiki/TI-85). I started my tech career as a software engineer but quickly moved through product marketing, developer relations and product management roles. All along the way, I've built [businesses](https://dcfray.com), [communities](https://2022.cascadiajs.com/) and [products](https://fizbuz.com/). The common thread across all of these things: I love software, I love building things and I love serving communities.
 
-I've been writing code since I was a teenager when I built a Doom clone on my TI-85. I started my career as a software engineer, got my MBA and transitioned to marketing and product roles. The common thread across all the jobs I've had: I love software and I love serving communities.
+The highlight of my career was working at [Twilio](https://twilio.com) where I got to help build one of the first and finest developer relations programs in the world. Our mission was to inspire and equip developers to build new and amazing communications experiences. We defined Twilio's developer GTM in the early years and helped build trust and affinity between Twilio and developers.
+  
+Based on my experiences talking to hundreds of developers about Twilio, I moved over to Product with the goal of making it easier, faster and safer for developers to ship Twilio application. I founded the Dev Tools team and along with a small team of engineers shipped a suite of serverless and debugging tools for developers before stepping away after the company's IPO.
 
-The highlight of my career was working at [Twilio](https://twilio.com) where I got to help build one of the first and finest developer relations programs in the world. Our mission was to serve developers, and how we went about this task was instrumental to Twilio's success. I later moved over to Product and shipped a suite of serverless and debugging tools for developers before stepping away after the IPO.
+Lately, I have spent my time running the [SeattleJS](https://seattlejs.com) meetup, organizing the [CascadiaJS](https://2022.cascadiajs.com) conference and building [200 OK](https://200ok.vc), an angel investor group that focuses on the dev tools space.
 
-Lately, I have spent my time running the [SeattleJS](https://seattlejs.com) meetup, organizing the [CascadiaJS](https://2022.cascadiajs.com) conference and investing in dev tools startups via [200 OK](https://200ok.vc).
+I am based in Seattle, WA and am married to [Carrie Rabasa](https://carrie.rabasa.com/). We have two [awesome](https://www.geekwire.com/2018/will-8-year-old-girl-stick-coding-fun-project-dad-attracts-gifts-tech-community/) [kiddos](https://bit.ly/girl_scout_cookies_emily) and a beloved Labradoodle named Otto.
 
 ## How to Reach Me
 
@@ -52,6 +55,7 @@ I've worn a lot of hats in my career, but the common threads have always been te
 I've been organizing communities my entire adult life, everything from kickball leagues to software meetups to angel investor groups. I get my energy from being around people, helping them and creating fun. The last 10 years I've run the CascadiaJS conference, which has helped thousands of developers find jobs, build their networks and uplevel their skills.
 
 - Have run the [SeattleJS](https://seattlejs.com) meetup on and off since 2012.
+- Started a co-working space for developers (now closed).
 - Helped organize the first [Sports Hack Day](https://www.geekwire.com/2013/sports-hack-day-diary-lessons-learned-journalist-hackathon/) in Seattle.
 - Organize the annual CascadiaJS conference (see [2022 event](https://2022.cascadiajs.com)).
 
@@ -106,6 +110,7 @@ I'm more of a hacker than a software engineer, but here are a few things that we
 
 - I was featured on the front page of the Wall Street Journal in full pointillistic glory in 2005 ([pdf](https://github.com/crtr0/crtr0/blob/main/wsj-kickball.pdf))
 
+</div>
 </body>
 </html>
 

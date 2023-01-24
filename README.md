@@ -2,15 +2,15 @@
 
 ## UPDATE (1/2/2023)
 
-After a long post-Twilio sabbatical, I'm jumping back into serving developers! If you're building developer tools and are looking for a Marketing, DevRel or Product leader, let's talk.
+After a healthy post-Twilio sabbatical, I'm jumping back into serving developers! If you're building developer tools and are looking for a Marketing, DevRel or Product leader, let's talk.
 
 ## tl;dr
 
-Hi there! 👋 My name is Carter Rabasa and I'm a builder. I've been building products and businesses my entire life, starting with a Doom clone I wrote as a teenager on my [TI-85](https://en.wikipedia.org/wiki/TI-85). I started my tech career as a software engineer but quickly moved through product marketing, developer relations and product management roles. All along the way, I've built [businesses](https://dcfray.com), [communities](https://2022.cascadiajs.com/) and [products](https://fizbuz.com/). The common thread across all of these things: I love software, I love building things and I love serving communities.
+Hi there! 👋 My name is Carter Rabasa and I'm a builder. I've been building products and businesses my entire life, starting with a Doom clone I wrote as a teenager on my [TI-85](https://en.wikipedia.org/wiki/TI-85). I started my tech career as a software engineer but quickly moved through product marketing, developer relations and product management roles. All along the way, I've built [businesses](https://unitedfray.com/), [communities](https://2022.cascadiajs.com/) and [products](https://fizbuz.com/). The common thread across all of these things: I love software, I love building things and I love serving developers.
 
 The highlight of my career was working at [Twilio](https://twilio.com) where I got to help build one of the first and finest developer relations programs in the world. Our mission was to inspire and equip developers to build new and amazing communications experiences. We defined Twilio's developer GTM in the early years and helped build trust and affinity between Twilio and developers.
   
-Based on my experiences talking to hundreds of developers about Twilio, I moved over to Product with the goal of making it easier, faster and safer for developers to ship Twilio application. I founded the Dev Tools team and along with a small team of engineers shipped a suite of serverless and debugging tools for developers before stepping away after the company's IPO.
+Based on my experiences engaging with hundreds of developers about Twilio, I moved over to Product with the goal of making it easier, faster and safer for developers to ship Twilio apps. I founded the Dev Tools product team and along with a small team of engineers shipped a suite of serverless and debugging tools for developers. I left the company a year or so following its IPO to take a break and spend some quality time with my family.
 
 Lately, I have spent my time running the [SeattleJS](https://seattlejs.com) meetup, organizing the [CascadiaJS](https://2022.cascadiajs.com) conference and building [200 OK](https://200ok.vc), an angel investor group that focuses on the dev tools space.
 
@@ -31,11 +31,11 @@ I've worn a lot of hats in my career, but the common threads have always been te
 - Founder and Angel Investor at [200 OK](https://200ok.vc)
 - Product Manager at Twilio (shipped [TwiML Bins](https://www.twilio.com/docs/serverless/twiml-bins), [API Explorer](https://www.twilio.com/blog/2011/08/announcing-the-twilio-api-explorer-2.html), [Debugger](https://www.twilio.com/blog/2017/02/real-time-visibility-into-application-errors-with-the-debugger-webhook.html) and [Functions](https://www.twilio.com/blog/2017/05/introducing-twilio-functions.html))
 - Developer Evangelist Manager at Twilio (managed west coast team)
-- Developer Evangelist at Twilio (helped [ship Twilio MMS](https://www.twilio.com/press/releases/twilio-unlocks-mms-for-developers-and-businesses))
-- Developer Marketing at Microsoft for the re-launch of IE 9 (HTML5 ftw)
+- Developer Evangelist at Twilio (helped [launch Twilio MMS](https://www.twilio.com/press/releases/twilio-unlocks-mms-for-developers-and-businesses))
+- Developer Marketing at Microsoft for the re-launch of IE 9 (ran a [global HTML5 app contest](https://thenextweb.com/news/microsoft-hosting-40000-contest-to-promote-html5-development) for devs)
 - MBA from the McCombs School of Business at the University of Texas 🤘
 - Quit tech to start a [kickball league](https://dcfray.com/sport/kickball/) (built on Ruby on Rails 1.0)
-- Consultant at Amentra specializing in J2EE systems
+- Consultant at Amentra (specializing in J2EE systems)
 - Web developer at Proteus (helped build the first SMS application featured during a Superbowl)
 - College of Williams and Mary (Computer Science and Economics)
 
@@ -94,6 +94,13 @@ I'm more of a hacker than a software engineer, but here are a few things that we
 - [A profile builder for devs](http://fizbuz.com)
 - [SMS voting with real-time results](https://github.com/crtr0/votr-part5)
 - [Convert videos into animated gifs](https://github.com/crtr0/gifit)
+
+## Business I've Started
+
+- DCKickball LLC (later merged to create [United Fray](https://unitedfray.com/), a social sports and media company)
+- Event Loop LLC - owns and operates the CascadiaJS conference
+- DevLocal - a co-working space for devs (closed in 2016)
+- Fizbuz Inc - developer profile product (shut down in 2022)
 
 ## Misc
 

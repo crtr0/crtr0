@@ -79,7 +79,8 @@ I've only given a handful of public talks in my career, but they were all about 
 I dove into angel investing in 2019, and never looked back. As a person who lives and breaths programming, I decided to specialize in developer tools and developer-adjacent startups doing interesting things in community and hiring.
 
 - [Fission](https://fission.codes/) - identity, data, and compute for dweb
-- [Abbot](https://ab.bot/) - chat ops platform
+- [Abbot](https://ab.bot/) - chat ops platform (YC S21)
+- [Enode](https://enode.com/) - Infrastructure for green energy apps (YC W21)
 - [Begin](https://begin.com) - build and deploy platform for functional web apps on AWS
 - [Battlesnake](https://play.battlesnake.com/) - coding competitions and community
 - [Major League Hacking](https://mlh.io/) - largest student hackathon league in the world

@@ -24,20 +24,17 @@ The easiest way to reach me is at carter.rabasa@gmail.com, but feel free to shoo
 - [LinkedIn](https://www.linkedin.com/in/carterrabasa/)
 - [Book time on Calendly](https://calendly.com/carter-rabasa)
 
-## Career
+## Recent Career
 
 I've worn a lot of hats in my career, but the common threads have always been technology, community and a desire to learn. I am constantly building things.
 
+- Advisor at [HeavyBit](https://www.heavybit.com/)
 - Founder and Angel Investor at [200 OK](https://200ok.vc)
 - Product Manager at Twilio (shipped [TwiML Bins](https://www.twilio.com/docs/serverless/twiml-bins), [API Explorer](https://www.twilio.com/blog/2011/08/announcing-the-twilio-api-explorer-2.html), [Debugger](https://www.twilio.com/blog/2017/02/real-time-visibility-into-application-errors-with-the-debugger-webhook.html) and [Functions](https://www.twilio.com/blog/2017/05/introducing-twilio-functions.html))
 - Developer Evangelist Manager at Twilio (managed west coast team)
 - Developer Evangelist at Twilio (helped [launch Twilio MMS](https://www.twilio.com/press/releases/twilio-unlocks-mms-for-developers-and-businesses))
-- Developer Marketing at Microsoft for the re-launch of IE 9 (ran a [global HTML5 app contest](https://thenextweb.com/news/microsoft-hosting-40000-contest-to-promote-html5-development) for devs)
+- Developer Marketing at Microsoft (ran a [global developer contest for the launch of Internet Explorer 9](https://thenextweb.com/news/microsoft-hosting-40000-contest-to-promote-html5-development))
 - MBA from the McCombs School of Business at the University of Texas 🤘
-- Quit tech to start a [kickball league](https://dcfray.com/sport/kickball/) (built on Ruby on Rails 1.0)
-- Consultant at Amentra (specializing in J2EE systems)
-- Web developer at Proteus (helped build the first SMS application featured during a Superbowl)
-- College of Williams and Mary (Computer Science and Economics)
 
 ## Community
 

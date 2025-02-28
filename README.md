@@ -4,9 +4,9 @@
 
 Hi there! 👋 My name is Carter Rabasa and I'm a builder. I've been building products and businesses my entire life, starting with a Doom clone I wrote as a teenager on my [TI-85](https://en.wikipedia.org/wiki/TI-85). I started my tech career as a software engineer but quickly moved through product marketing, developer relations and product management roles. All along the way, I've built [businesses](https://unitedfray.com/), [communities](https://2022.cascadiajs.com/) and [products](https://fizbuz.com/). The common thread across all of these things: I love software, I love building things and I love serving developers.
 
-I currently lead Developer Relations at [Courier](https://courier.com), a multi-channel notification and messaging platform for developers. Prior to Courier, I spent 6 years at [Twilio](https://twilio.com) where I helped build out their early DevRel team and, after moving to Product, shipped a suite of prototyping, debugging and serverless tools for Twilio developers. Prior to Twilio, I spent 3 years at Microsoft where I worked on Developer Marketing programs for Internet Explorer 9 and Windows 8.
+I currently lead Developer Relations at [DataStax](https://datastax.com), a company that ships AI tools like [Astra DB](https://docs.datastax.com/en/astra-db-serverless/index.html) (a cloud-based vector database) and [Langflow](https://docs.langflow.org) (an visual tool for building AI agents). Prior to DataStax, I spent 6 years at [Twilio](https://twilio.com) where I helped build out their early DevRel team and, after moving to Product, shipped a suite of prototyping, debugging and serverless tools for Twilio developers. Prior to Twilio, I spent 3 years at Microsoft where I worked on Developer Marketing programs for Internet Explorer 9 and Windows 8.
 
-In my spare time, I run the [SeattleJS](https://seattlejs.com) meetup, organize the [CascadiaJS](https://2022.cascadiajs.com) conference and lead [200 OK](https://200ok.vc), an angel investor group that focuses on the dev tools space.
+In my spare time, I run the [SeattleJS](https://seattlejs.com) meetup and organize the [CascadiaJS](https://cascadiajs.com) conference.
 
 I am based in Seattle, WA and am married to [Carrie Rabasa](https://carrie.rabasa.com/). We have two [awesome](https://www.geekwire.com/2018/will-8-year-old-girl-stick-coding-fun-project-dad-attracts-gifts-tech-community/) [kiddos](https://bit.ly/girl_scout_cookies_emily) and a beloved Labradoodle named Otto.
 
@@ -15,8 +15,8 @@ I am based in Seattle, WA and am married to [Carrie Rabasa](https://carrie.rabas
 The easiest way to reach me is at carter.rabasa@gmail.com, but feel free to shoot me a DM on Twitter or book some time for a chat!
 
 - [Twitter](https://twitter.com/crtr0)
+- [BlueSky](https://bsky.app/profile/carter.rabasa.com)
 - [LinkedIn](https://www.linkedin.com/in/carterrabasa/)
-- [Book time on Calendly](https://calendly.com/carter-rabasa)
 
 ## Recent Career
 

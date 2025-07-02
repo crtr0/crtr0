@@ -2,13 +2,13 @@
 
 ## tl;dr
 
-Hi there! 👋 My name is Carter Rabasa and I'm a builder. I've been building products and businesses my entire life, starting with a Doom clone I wrote as a teenager on my [TI-85](https://en.wikipedia.org/wiki/TI-85). I started my tech career as a software engineer but quickly moved through product marketing, developer relations and product management roles. All along the way, I've built [businesses](https://unitedfray.com/), [communities](https://2022.cascadiajs.com/) and [products](https://fizbuz.com/). The common thread across all of these things: I love software, I love building things and I love serving developers.
+Hi there! 👋 My name is Carter Rabasa and I'm a builder. I've been building products and businesses my entire life, starting with a Doom clone I wrote as a teenager on my [TI-85](https://en.wikipedia.org/wiki/TI-85). I started my tech career as a software engineer but quickly moved through product marketing, developer relations and product management roles. All along the way, I've built [businesses](https://unitedfray.com/), [communities](https://cascadiajs.com/) and [products](https://fizbuz.com/). The common thread across all of these things: I love software, I love building things and I love serving developers.
 
-I currently lead Developer Relations at [DataStax](https://datastax.com), a company that ships AI tools like [Astra DB](https://docs.datastax.com/en/astra-db-serverless/index.html) (a cloud-based vector database) and [Langflow](https://docs.langflow.org) (an visual tool for building AI agents). Prior to DataStax, I spent 6 years at [Twilio](https://twilio.com) where I helped build out their early DevRel team and, after moving to Product, shipped a suite of prototyping, debugging and serverless tools for Twilio developers. Prior to Twilio, I spent 3 years at Microsoft where I worked on Developer Marketing programs for Internet Explorer 9 and Windows 8.
+I currently lead Developer Relations at [DataStax](https://datastax.com), a company that ships AI tools like [Astra DB](https://docs.datastax.com/en/astra-db-serverless/index.html) (a cloud-based vector database) and [Langflow](https://langflow.org) (an visual tool for building AI agents and MCP servers). Prior to DataStax, I spent 6 years at [Twilio](https://twilio.com) where I helped build out their early DevRel team and, after moving to Product, shipped a suite of prototyping, debugging and serverless tools for Twilio developers. Prior to Twilio, I spent 3 years at Microsoft where I worked on Developer Marketing programs for Internet Explorer 9 and Windows 8.
 
-In my spare time, I run the [SeattleJS](https://seattlejs.com) meetup and organize the [CascadiaJS](https://cascadiajs.com) conference.
+In my spare time, I help run the [SeattleJS](https://seattlejs.com) meetup and organize the [CascadiaJS](https://cascadiajs.com) conference.
 
-I am based in Seattle, WA and am married to [Carrie Rabasa](https://carrie.rabasa.com/). We have two [awesome](https://www.geekwire.com/2018/will-8-year-old-girl-stick-coding-fun-project-dad-attracts-gifts-tech-community/) [kiddos](https://bit.ly/girl_scout_cookies_emily) and a beloved Labradoodle named Otto.
+I am based in Seattle, WA and am married to [Carrie Rabasa](https://carrie.rabasa.com/). We have two awesome kiddos and a beloved Labradoodle named Otto.
 
 ## How to Reach Me
 
@@ -38,7 +38,7 @@ I've been organizing communities my entire adult life, everything from kickball 
 - Have run the [SeattleJS](https://seattlejs.com) meetup on and off since 2012.
 - Started a co-working space for developers (now closed).
 - Helped organize the first [Sports Hack Day](https://www.geekwire.com/2013/sports-hack-day-diary-lessons-learned-journalist-hackathon/) in Seattle.
-- Organize the annual CascadiaJS conference (see [2022 event](https://2022.cascadiajs.com)).
+- Organize the annual CascadiaJS conference (our [2025 event](https://cascadiajs.com) is coming up!).
 
 
 ## Writing
